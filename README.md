@@ -2,7 +2,7 @@
 
 A modern redesign concept exploring a new visual experience for Mercado Livre.
 
-![Project Preview](./preview/preview-1.png)
+![Project Preview](./preview/preview-3.png)
 
 ## About
 
@@ -50,6 +50,3 @@ Mercado Livre and its trademarks belong to their respective owners. This project
 ## Author
 
 Victor Brandão
-
-Software Developer  
-Code, tech & digital products
