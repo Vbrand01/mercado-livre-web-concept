@@ -1,0 +1,21 @@
+/**
+ * Design token layer — excerpt
+ * Centralizes brand colors, radii, and layout constraints for the concept UI.
+ */
+:root {
+  --ml-yellow: #ffe600;
+  --ml-blue: #3483fa;
+  --ml-green: #00a650;
+  --ml-gray-bg: #f3f3f3;
+  --ml-surface: #ffffff;
+  --ml-text: rgba(0, 0, 0, 0.88);
+  --ml-text-muted: rgba(0, 0, 0, 0.5);
+  --ml-border: rgba(0, 0, 0, 0.06);
+  --radius-pill: 999px;
+  --radius-xl: 40px;
+  --layout-max: 1320px;
+  /* Glass sub-nav (light overlay on brand yellow) */
+  --subnav-glass: rgba(0, 0, 0, 0.035);
+  --subnav-glass-border: rgba(0, 0, 0, 0.05);
+  --subnav-glass-highlight: rgba(255, 255, 255, 0.4);
+}
