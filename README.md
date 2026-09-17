@@ -19,11 +19,10 @@ The concept focuses on interface design, visual hierarchy, interactions and the 
 ## Highlights
 
 • Modern e-commerce interface  
-• Responsive layout  
 • Interactive elements  
 • Product-focused visual hierarchy  
 • Custom animations and transitions  
-• Desktop and mobile experience
+• Desktop experience
 
 ## Built With
 
